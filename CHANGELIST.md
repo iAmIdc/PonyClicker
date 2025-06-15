@@ -1,5 +1,44 @@
 # Pony Clicker Change Log
-This is the change log for Pony Clicker. Some minor changes may not be reflected in this log.
+This is the change log for Pony Clicker. Some minor changes may not be reflected in this log. ig
+
+## milesstones
+- check how old is this webstie, like did i missed the 10th unnivresry?
+- add cupcakes shop
+- you can choose which pony to buy
+- you can change the news thingy
+- happy happy keyboard users
+- thrers like 80 bugs in the orignal github so... ae theu vaild?
+- my phone have troubles, fix it.
+- pony status and skills??
+- why is theres Pinkies imgs not used? maybe ill do something about it
+- your OC is the greatest OC, now ypu can put them in here
+- highlighted upgrades when there are better to buy then just an item from the store or something
+- put this file inside the website
+- secret
+- theres an offical milestone from the offical creator, thats. a. goal.
+
+
+## v1.0.9
+- I take over this place, mwhahahaha, gosh im so ebil 
+- all modal, no windows popup 
+- cupccakes?? now you know what it does (and i canhged so it would make sense and etc) 
+- cupcakes give now 10 times more mylt then before!!!! (aka now its 5% par cupkace) they also 10 times more expnxive so.... 
+- lazy town hero, im lazy, i dont want to click so auto click can be activeted 
+- maybe pony names on them or something, lol 
+- and cupcake shop so it would be fun 
+- achivement show how many muffins you got 
+- keyboard users be happy! theres now a highlight on which button is foucus 
+- shows the SPS bounus of muffines and cupcakes at stats 
+- highlighter thing endcase kinda fix 
+- upgradeds have more info on them so you cloud know how much good they are 
+- menu open close keyboard bug 
+- night time (its just a bit dark outside) 
+- stop pinkie (with Tom)  
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq(ignore it pls)
+
+## v1.0.8 (unrelesed version)
+- reset not giving 1 cupcakes when it should be 0
+- fixed friend graphs achivments 
 
 ## v1.0.7
 - Cupcake dialog no longer tries to use HTML (Resolve #98)

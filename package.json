@@ -1,0 +1,8 @@
+{
+"name": "pony_clicker",
+"version": "1.0.9",
+ "scripts": {
+    "pony": "serve",
+    "test": "echo \"Error: LOL\" && exit 1"
+  }
+}
